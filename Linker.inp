@@ -6,7 +6,7 @@ FL_ID   'From130to202'  131
 FL_FT   'Injection steam'    'Vol202'   0.0E+00  0.0E+00   
 FL_GEO  +5.06E-04  +2.54E-02  +1.00           
 FL_USL  0.00  0.00                                    
-FL_VEL  55.76  0.00                                    
+FL_VEL  3.244  0.00                                    
 FL_JSW  1 NoBubbleRise  NoBubbleRise                  
 FL_SEG  1                                             
         1  +5.06E-04  +1.27E-02  +2.54E-02
@@ -53,17 +53,17 @@ FL_JSW  0 NoBubbleRise  NoBubbleRise
 FL_SEG  1
         1  +0.277368E+00  +0.228324E+00  +0.456648E+00
 
-!! valve allow steam and air escape from the tank        
-FL_ID  'Pressure release'  301
-FL_FT   'Vol208'    'Vol300'  2.4384E+00  2.4384E+00
-FL_GEO  +1.7E-03  +5.0E-02  +1.00  
-FL_USL  0.00  0.00                                      
-FL_VEL  0.00  0.00                                      
-FL_JSW  1 NoBubbleRise  NoBubbleRise                    
-FL_SEG  1                                               
-        1  +1.7E-03  +5.0E-02  +10.0E-02  
-!FL_VLV  1
-!        1  'Pressure CONTROL'    'Pressure release'   NoTRIP  'Pressure CONTROL'     
+!!! valve allow steam and air escape from the tank        
+!FL_ID  'Pressure release'  301
+!FL_FT   'Vol208'    'Vol300'  2.4384E+00  2.4384E+00
+!FL_GEO  +1.7E-03  +5.0E-02  +1.00  
+!FL_USL  0.00  0.00                                      
+!FL_VEL  0.00  0.00                                      
+!FL_JSW  1 NoBubbleRise  NoBubbleRise                    
+!FL_SEG  1                                               
+!        1  +1.7E-03  +5.0E-02  +10.0E-02  
+!!FL_VLV  1
+!!        1  'Pressure CONTROL'    'Pressure release'   NoTRIP  'Pressure CONTROL'     
 
 
 FL_ID  'CONNECT water tank'  101                                              
