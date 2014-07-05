@@ -13,7 +13,7 @@ CV_VAT  4  !Number  Elevation Volume
         4  1.3334E+00        +0.568988E+00
 CV_THR  NonEquil  NoFog      Active
 CV_PAS  Separate  ONLYATM   Superheated   
-CV_PTD  Pvol  1.0E+5
+CV_PTD  Pvol  0.28838E+5
 CV_AAD  TATM  295.15
 CV_NCG  2  PNCG  1.0E+5
         1  N2   0.8
@@ -30,7 +30,7 @@ CV_VAT  2  !Number  Elevation Volume
         2  1.5284E+00        +0.08321E+00
 CV_THR  NonEquil  NoFog      Active
 CV_PAS  Separate  ONLYATM   Superheated   
-CV_PTD  Pvol  1.0E+5
+CV_PTD  Pvol  0.28838E+5
 CV_AAD  TATM  295.15
 CV_NCG  2  PNCG  1.0E+5
         1  N2   0.8
@@ -46,7 +46,7 @@ CV_VAT  2  !Number  Elevation Volume
         2  2.4384E+00        +0.13591E+00
 CV_THR  NonEquil  NoFog      Active
 CV_PAS  Separate  ONLYATM   Superheated   
-CV_PTD  Pvol  1.0E+5
+CV_PTD  Pvol  0.28838E+5
 CV_AAD  TATM  295.15
 CV_NCG  2  PNCG  1.0E+5
         1  N2   0.8
@@ -63,7 +63,7 @@ CV_VAT  2  !Number  Elevation Volume
         2  2.4384E+00        +0.252405E+00
 CV_THR  NonEquil  NoFog      Active
 CV_PAS  Separate  ONLYATM   Superheated   
-CV_PTD  Pvol  1.0E+5
+CV_PTD  Pvol  0.28838E+5
 CV_AAD  TATM  295.15
 CV_NCG  2  PNCG  1.0E+5
         1  N2   0.8
@@ -80,7 +80,7 @@ CV_VEL  0.00  0.00
 !        2   3.4384E+00        +0.252405E+100          
 !CV_THR  NonEquil  NoFog      Active                              
 !CV_PAS  Separate  ONLYATM   Superheated      
-!CV_PTD  Pvol  1.0E+5                         
+!CV_PTD  Pvol  0.28838E+5                         
 !CV_AAD  TATM  295.15                         
 !CV_NCG  2  PNCG  1.0E+5                      
 !        1  N2   0.8                          
@@ -96,7 +96,7 @@ CV_VAT  2  !Number  Elevation Volume
         2  0.0E+00        +0.252405E+100            
 CV_THR  NonEquil  NoFog      Active                 
 CV_PAS  Separate  ONLYATM   Superheated 
-CV_PTD  Pvol  1.0E+5                    
+CV_PTD  Pvol  0.28838E+5                    
 CV_AAD  TATM  295.15                    
 CV_NCG  2  PNCG  1.0E+5                 
         1  N2   0.8                     
