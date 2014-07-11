@@ -15,8 +15,8 @@ HS_LB   CalcCoefHS                        'Vol208'   No
 HS_RB   TempTimeTF  'CONSTANTTEMPBOUNDRY'           No    
 HS_LBP  EXT         0.05             0.95
 HS_RBP  EXT         0.05             0.95
-HS_LBS  2.7432E-001     0.9         0.9
-HS_RBS  2.7432E-001     0.9         0.9
+HS_LBS  2.7432E-001     0.45         0.9
+HS_RBS  2.7432E-001     0.45         0.9
 HS_FT   Off
 
 !==================  Heat Structure 1308  ==================
@@ -31,7 +31,7 @@ HS_LB   CalcCoefHS                        'Vol208'    No
 HS_RB   TempTimeTF  'CONSTANTTEMPBOUNDRY'            No    
 HS_LBP  EXT         0.05             0.95
 HS_RBP  EXT         0.05             0.95
-HS_LBS  2.7432E-001     0.9         0.9
-HS_RBS  2.7432E-001     0.9         0.9
+HS_LBS  2.7432E-001     0.45         0.9
+HS_RBS  2.7432E-001     0.45         0.9
 HS_FT   Off
 
