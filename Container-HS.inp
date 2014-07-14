@@ -11,7 +11,7 @@ HS_EOD  1.5284E+00       1.00
 HS_ND   2
         1   1   1.524E-02   299.00   ALUMINUM 
         2   2   3.81E-02   301.75   ALUMINUM
-HS_LB   CalcCoefHS                        'Vol208'   YES
+HS_LB   CalcCoefHS                        'Vol208'    No
 HS_RB   TempTimeTF  'CONSTANTTEMPBOUNDRY'           No    
 HS_LBP  EXT         0.5             0.5
 HS_RBP  EXT         0.5             0.5
@@ -27,7 +27,7 @@ HS_EOD  2.4384E+00       0.0
 HS_ND   2
         1   1   1.524E-02   299.00   ALUMINUM 
         2   2   3.81E-02   301.75   ALUMINUM
-HS_LB   CalcCoefHS                        'Vol208'    YES
+HS_LB   CalcCoefHS                        'Vol208'     No
 HS_RB   TempTimeTF  'CONSTANTTEMPBOUNDRY'            No    
 HS_LBP  EXT          0.5             0.5 
 HS_RBP  EXT          0.5             0.5 
