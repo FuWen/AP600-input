@@ -47,7 +47,7 @@ NCG_INPUT
 !                               File Inclusions
 ! ==============================================================================
 	INCLUDE		'Container-TF.inp'		! Tabular functions
-  INCLUDE		'Container-CF.inp'		! Control functions
+  !INCLUDE		'Container-CF.inp'		! Control functions
 	INCLUDE		'Container-MP.inp'		! Material properties
 	INCLUDE		'Container-EDF.inp'		! ASCII data dumps
 	INCLUDE		'Main-CVH.inp'			! Control Models
